@@ -137,9 +137,6 @@ A secure and tamper-proof digital certificate generation and validation system b
 - Create a new issue with detailed error information
 - Join our [Discord community](your_discord_link)
 
-## 📚 Documentation
-
-For detailed documentation, visit our [Wiki](your_wiki_link)
 
 ## 🤝 Contributing
 
@@ -163,4 +160,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@yourdomain.com or join our Discord channel.
+For support, email swayamvasudevnayak@gmail.
